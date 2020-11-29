@@ -77,6 +77,6 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
 
-Desenvolvido com 💜 por Victor Hugo
+Não meça os outros com sua própria régua.
 
 Créditos ao **[@guilhermecapitao](https://github.com/guilhermecapitao)** pelo layout do README.md
